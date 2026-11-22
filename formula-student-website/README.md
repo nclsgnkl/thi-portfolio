@@ -12,7 +12,7 @@ Together with a fellow team member, I worked on the website's overall visual dir
 
 My contributions included designing several subpages, such as:
 
-- **News:** A page presenting team updates and newsletter content
+- **News:** A page presenting team updates and newsletter content (until 2024)
 - **Garage:** An overview of the cars built by the team
 - **Recruiting:** A page introducing the team and providing information for prospective members
 
