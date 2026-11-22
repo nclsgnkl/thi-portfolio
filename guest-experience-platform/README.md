@@ -24,4 +24,4 @@ The result is a functional application that brings the concept to life, currentl
 
 - [Figma Design – Initial Prototype](https://www.figma.com/design/JGH2ZQOXCoL0KNLM4uXtCN/AirBnB-Screen?m=auto&t=Crpa1T8TZ4mKGNZ7-1)
 - [Claude Design Screens](./screens)
-- [App Prototype](./app)
+- [GitHub Repository](https://github.com/nclsgnkl/guest-expierience-platform)
