@@ -22,4 +22,4 @@ The website was implemented using WordPress and its existing building blocks, al
 
 The website is still actively used by the Formula Student team and continues to be developed further.
 
-[Visit the Formula Student Website](https://dynamics-regensburg.de/index.php/24_recruiting/)
+[Visit the Formula Student Website](https://dynamics-regensburg.de/)
