@@ -2,7 +2,7 @@
 
 > ℹ️ **Note:** This README was created with the assistance of AI and reviewed by me. The projects and experiences presented here are my own.
 
-Welcome to my UX Design Portfolio!
+Welcome to my UX & Interaction Design Portfolio!
 
 I am a computer science graduate with a background in software engineering and a strong interest in the intersection of technology, design and human interaction.
 
@@ -10,18 +10,25 @@ My experience in software development has taught me to approach digital products
 
 ## My Projects
 
-### 🏠 Smart Home & Guest Experience Platform
-An independent project exploring how digital interfaces can improve the experience of guests in short-term accommodation.
+The following projects also reflect my journey into AI-assisted software development. I started small, experimenting with what happens when you let AI build an application based on a few prompts. The Dart Counter was a great opportunity to explore this approach and understand its strengths and limitations.
 
-[Explore project →](./guest-experience-platform/README.md)
+With the Smart Home & Guest Experience Platform, I took things a step further. Instead of simply prompting AI to write code, I experimented with a more structured, agentic workflow, using custom AI agents and specifications to plan, build and refine a larger application.
 
 ### 🎯 Dart Counter App
-An independent app concept focused on intuitive interaction and making scorekeeping accessible.
+
+My first experiment with AI-assisted app development. I wanted to see how far I could get by describing an idea through prompts and letting AI handle most of the implementation.
 
 [Explore project →](./dart-counter/README.md)
 
+### 🏠 Smart Home & Guest Experience Platform
+
+Building on those initial experiments, I explored a more structured and agentic approach to developing a larger application. The project combines my interest in intuitive interfaces with my curiosity about new software development workflows.
+
+[Explore project →](./smart-home-guest-experience/README.md)
+
 ### 🏎️ Formula Student Website
-A collaborative website design project for the Formula Student team at OTH Regensburg.
+
+A collaborative website design project for the Formula Student team at OTH Regensburg, where I gained experience in designing and structuring a website as part of a team.
 
 [Explore project →](./formula-student-website/README.md)
 

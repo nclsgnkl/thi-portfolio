@@ -1,3 +1,6 @@
 [submodule "guest-experience-platform/app"]
 	path = guest-experience-platform/app
 	url = https://github.com/nclsgnkl/guest-expierience-platform.git
+[submodule "dart-counter/app"]
+	path = dart-counter/app
+	url = https://github.com/nclsgnkl/dart-counter.git
