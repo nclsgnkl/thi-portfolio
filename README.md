@@ -2,7 +2,7 @@
 
 > ℹ️ **Note:** This README was created with the assistance of AI and reviewed by me. The projects and experiences presented here are my own.
 
-Welcome to my UX & Interaction Design Portfolio!
+Welcome to my UX Design Portfolio!
 
 I am a computer science graduate with a background in software engineering and a strong interest in the intersection of technology, design and human interaction.
 
@@ -12,7 +12,7 @@ My experience in software development has taught me to approach digital products
 
 The following projects also reflect my journey into AI-assisted software development. I started small, experimenting with what happens when you let AI build an application based on a few prompts. The Dart Counter was a great opportunity to explore this approach and understand its strengths and limitations.
 
-With the Smart Home & Guest Experience Platform, I took things a step further. Instead of simply prompting AI to write code, I experimented with a more structured, agentic workflow, using custom AI agents and specifications to plan, build and refine a larger application.
+With the Guest Experience Platform, I took things a step further. Instead of simply prompting AI to write code, I experimented with a more structured, agentic workflow, using custom AI agents and specifications to plan, build and refine a larger application.
 
 ### 🎯 Dart Counter App
 
@@ -20,11 +20,11 @@ My first experiment with AI-assisted app development. I wanted to see how far I 
 
 [Explore project →](./dart-counter/README.md)
 
-### 🏠 Smart Home & Guest Experience Platform
+### 🏠 Guest Experience Platform
 
 Building on those initial experiments, I explored a more structured and agentic approach to developing a larger application. The project combines my interest in intuitive interfaces with my curiosity about new software development workflows.
 
-[Explore project →](./smart-home-guest-experience/README.md)
+[Explore project →](./guest-experience-platform/README.md)
 
 ### 🏎️ Formula Student Website
 
