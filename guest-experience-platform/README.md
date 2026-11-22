@@ -4,7 +4,7 @@
 
 ## About the Project
 
-The Smart Home & Guest Experience Platform is an independent project exploring how technology can improve the experience of guests in hotels and short-term accommodation.
+The Guest Experience Platform is an independent project exploring how technology can improve the experience of guests in hotels and short-term accommodation.
 
 Most existing accommodation management systems are primarily designed around the needs of property managers: organizing bookings, managing properties and simplifying operational processes. I wanted to approach the problem from the other side: **What if the guest experience was at the center of the platform?**
 
@@ -23,5 +23,5 @@ The result is a functional application that brings the concept to life, currentl
 ## Links
 
 - [Figma Design – Initial Prototype](https://www.figma.com/design/JGH2ZQOXCoL0KNLM4uXtCN/AirBnB-Screen?m=auto&t=Crpa1T8TZ4mKGNZ7-1)
-- [Claude Design Screens](./screens/README.md)
-- [App Prototype](./app/README.md)
+- [Claude Design Screens](./screens)
+- [App Prototype](./app)
