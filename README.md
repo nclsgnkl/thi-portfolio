@@ -18,19 +18,19 @@ With the Guest Experience Platform, I took things a step further. Instead of sim
 
 My first experiment with AI-assisted app development. I wanted to see how far I could get by describing an idea through prompts and letting AI handle most of the implementation.
 
-[Explore project →](./dart-counter/README.md)
+[Explore project →](./dart-counter)
 
 ### 🏠 Guest Experience Platform
 
 Building on those initial experiments, I explored a more structured and agentic approach to developing a larger application. The project combines my interest in intuitive interfaces with my curiosity about new software development workflows.
 
-[Explore project →](./guest-experience-platform/README.md)
+[Explore project →](./guest-experience-platform)
 
 ### 🏎️ Formula Student Website
 
 A collaborative website design project for the Formula Student team at OTH Regensburg, where I gained experience in designing and structuring a website as part of a team.
 
-[Explore project →](./formula-student-website/README.md)
+[Explore project →](./formula-student-website)
 
 ---
 
